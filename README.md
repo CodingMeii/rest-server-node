@@ -6,4 +6,4 @@ Ejecutar
 npm install
 ```
 
-para reconstruir los modulos de Node.
+para reconstruir los modulos de Node. c:
